@@ -1,7 +1,8 @@
-Restaurant Orders
+Restaurant Orders Analysis
+
 A quarter's worth of orders from a fictitious restaurant serving international cuisine, including the date and time of each order, the items ordered, and additional details on the type, name and price of the items.
 
-Wrote Queries for the below Analysis
+Wrote Queries for the below Analysis:
 
 What is the least and most expensive items on the menu?
 
